@@ -11,7 +11,7 @@ public class Day5 {
         System.out.println("HASIL (PENGURANGAN) : "+(a - b));//PENGURANGAN
         System.out.println("HASIL (PERKALIAN ): "+(a * b));     //PERKALIAN 
         System.out.println("HASIL (PEMBAGIAN): "+(a / b)); //PEMBAGIAN
-        System.out.println("HASIL (SISA BAGI): "+(a % b));  //SISA BAGI
+        System.out.println("HASIL (SISA BAGI): "+(a % b));  //SISA BAGIG
         
     }
     
